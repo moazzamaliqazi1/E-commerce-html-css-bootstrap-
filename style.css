@@ -1,0 +1,95 @@
+.navbar-brand img {
+  width: 35px;
+}
+.profile img {
+  width: 37px;
+}
+.bg-image {
+  background-image: url("d2.png");
+  height: 560px;
+  background-position: center;
+  position: relative;
+  width: 100%;
+}
+.title {
+  position: absolute;
+  margin: 100px 0px 0px 176px;
+}
+.title2 {
+  position: absolute;
+  margin: 233px 0px 0px 176px;
+}
+.shopnow {
+  background-color: #f7444e;
+  color: white;
+  border: none;
+  height: 50px;
+  width: 120px;
+}
+.catbtn {
+  margin-left: auto;
+}
+.catbtn button {
+  border: none;
+  height: 50px;
+  width: 50px;
+}
+.catbtn button:hover {
+  background-color: #3fad54;
+}
+.prdtbtn {
+  margin-left: auto;
+}
+.prdtbtn button {
+  border: none;
+  height: 50px;
+  width: 120px;
+  border-radius: 6%;
+}
+.height {
+  height: 50vh;
+}
+
+.pcard {
+  width: 300px;
+  height: 370px;
+}
+
+.image {
+  position: absolute;
+  right: 12px;
+  top: 10px;
+}
+
+.main-heading {
+  font-size: 40px;
+  color: #3fad54 !important;
+}
+
+.ratings i {
+  color: orange;
+}
+
+.user-ratings h6 {
+  margin-top: 2px;
+}
+
+
+
+.btn-danger {
+  height: 48px;
+  font-size: 18px;
+}
+.productcard {
+  height: 50vh;
+}
+
+.bbb_deals_item_price {
+  font-size: 24px;
+  font-weight: 500;
+  color: #6d6e73;
+}
+.procard {
+  width: 500;
+  height: 370px;
+}
